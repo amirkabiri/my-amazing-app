@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/amirkabiri/my-amazing-app/compare/v1.0.0...v1.1.0) (2025-11-14)
+
+### ✨ Features
+
+* kill-port implemented ([192416f](https://github.com/amirkabiri/my-amazing-app/commit/192416fdd8bc647b0e9f25480780fe5a48b05772))
+
 ## 1.0.0 (2025-11-14)
 
 ### ✨ Features
