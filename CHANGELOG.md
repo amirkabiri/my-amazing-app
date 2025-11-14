@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/amirkabiri/my-amazing-app/compare/v1.1.0...v1.2.0) (2025-11-14)
+
+### ✨ Features
+
+* kill-port final ([c4ce266](https://github.com/amirkabiri/my-amazing-app/commit/c4ce2667687dbaf6b64c9c8a34f1ded34ba53732))
+
 ## [1.1.0](https://github.com/amirkabiri/my-amazing-app/compare/v1.0.0...v1.1.0) (2025-11-14)
 
 ### ✨ Features
