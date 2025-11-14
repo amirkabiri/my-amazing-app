@@ -4,7 +4,7 @@
   "type": "module",
   "main": "./dist/cli.cjs",
   "bin": {
-    "my-awesome-npm-cmd": "./dist/cli.cjs"
+    "my-amazing-app2": "./dist/cli.cjs"
   },
   "scripts": {
     "build": "tsup",
