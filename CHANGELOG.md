@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/amirkabiri/my-amazing-app/compare/v1.2.0...v1.2.1) (2025-11-14)
+
+### 🐛 Bug Fixes
+
+* runtime error ([b9e6c2a](https://github.com/amirkabiri/my-amazing-app/commit/b9e6c2a26fb56938743f57a5aa4e64ba978979b2))
+
 ## [1.2.0](https://github.com/amirkabiri/my-amazing-app/compare/v1.1.0...v1.2.0) (2025-11-14)
 
 ### ✨ Features
