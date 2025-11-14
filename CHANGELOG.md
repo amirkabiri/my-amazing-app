@@ -1,3 +1,9 @@
+## 1.0.0 (2025-11-14)
+
+### ✨ Features
+
+* add new feature ([b31a7f4](https://github.com/amirkabiri/my-amazing-app/commit/b31a7f4b009dc7bdcc61fc483fe3ff5948a1e335))
+
 ## 1.0.0 (2025-11-10)
 
 ### ✨ Features
