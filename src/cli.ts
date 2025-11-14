@@ -33,4 +33,12 @@
 //
 // program.parse();
 
-console.log('hello world')
+const { execSync } = require('child_process');
+
+const port = process.argv.slice(-1)[0];
+
+try{
+    console.log(execSync(`lsof -i :${port} | grep -v "COMMAND" | awk '{print $2}' | xargs kill -9`).toString());
+}catch(e){
+    console.log('no app running on this port')
+}
